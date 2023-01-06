@@ -1,1 +1,1 @@
-Sitio de práctica 
+Sitio de práctica responsivo 
